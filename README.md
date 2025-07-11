@@ -1,0 +1,2 @@
+# cluster_chat_serv
+可以工作在nginx tcp负载均衡环境中的集群聊天服务器和客户端源码，基于muduo网络库实现，使用MySQL存储数据，并采用Redis作为集群通信中的发布/订阅消息队列
