@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/zty/Chat_Service_Cluster/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zty/Chat_Service_Cluster/include -I/home/zty/Chat_Service_Cluster/include/server -I/home/zty/Chat_Service_Cluster/include/server/database -I/home/zty/Chat_Service_Cluster/include/server/model -I/home/zty/Chat_Service_Cluster/include/server/redis -I/home/zty/Chat_Service_Cluster/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/zty/Chat_Service_Cluster/src/server/chatserver.cpp",
+  "file": "/home/zty/Chat_Service_Cluster/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/zty/Chat_Service_Cluster/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zty/Chat_Service_Cluster/include -I/home/zty/Chat_Service_Cluster/include/server -I/home/zty/Chat_Service_Cluster/include/server/database -I/home/zty/Chat_Service_Cluster/include/server/model -I/home/zty/Chat_Service_Cluster/include/server/redis -I/home/zty/Chat_Service_Cluster/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/zty/Chat_Service_Cluster/src/server/chatservice.cpp",
+  "file": "/home/zty/Chat_Service_Cluster/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/zty/Chat_Service_Cluster/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zty/Chat_Service_Cluster/include -I/home/zty/Chat_Service_Cluster/include/server -I/home/zty/Chat_Service_Cluster/include/server/database -I/home/zty/Chat_Service_Cluster/include/server/model -I/home/zty/Chat_Service_Cluster/include/server/redis -I/home/zty/Chat_Service_Cluster/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/zty/Chat_Service_Cluster/src/server/main.cpp",
+  "file": "/home/zty/Chat_Service_Cluster/src/server/main.cpp"
+},
+{
+  "directory": "/home/zty/Chat_Service_Cluster/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zty/Chat_Service_Cluster/include -I/home/zty/Chat_Service_Cluster/include/server -I/home/zty/Chat_Service_Cluster/include/server/database -I/home/zty/Chat_Service_Cluster/include/server/model -I/home/zty/Chat_Service_Cluster/include/server/redis -I/home/zty/Chat_Service_Cluster/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/database/server_database.cpp.o -c /home/zty/Chat_Service_Cluster/src/server/database/server_database.cpp",
+  "file": "/home/zty/Chat_Service_Cluster/src/server/database/server_database.cpp"
+},
+{
+  "directory": "/home/zty/Chat_Service_Cluster/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zty/Chat_Service_Cluster/include -I/home/zty/Chat_Service_Cluster/include/server -I/home/zty/Chat_Service_Cluster/include/server/database -I/home/zty/Chat_Service_Cluster/include/server/model -I/home/zty/Chat_Service_Cluster/include/server/redis -I/home/zty/Chat_Service_Cluster/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/zty/Chat_Service_Cluster/src/server/model/friendmodel.cpp",
+  "file": "/home/zty/Chat_Service_Cluster/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/zty/Chat_Service_Cluster/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zty/Chat_Service_Cluster/include -I/home/zty/Chat_Service_Cluster/include/server -I/home/zty/Chat_Service_Cluster/include/server/database -I/home/zty/Chat_Service_Cluster/include/server/model -I/home/zty/Chat_Service_Cluster/include/server/redis -I/home/zty/Chat_Service_Cluster/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/zty/Chat_Service_Cluster/src/server/model/groupmodel.cpp",
+  "file": "/home/zty/Chat_Service_Cluster/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/zty/Chat_Service_Cluster/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zty/Chat_Service_Cluster/include -I/home/zty/Chat_Service_Cluster/include/server -I/home/zty/Chat_Service_Cluster/include/server/database -I/home/zty/Chat_Service_Cluster/include/server/model -I/home/zty/Chat_Service_Cluster/include/server/redis -I/home/zty/Chat_Service_Cluster/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/zty/Chat_Service_Cluster/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/zty/Chat_Service_Cluster/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/zty/Chat_Service_Cluster/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zty/Chat_Service_Cluster/include -I/home/zty/Chat_Service_Cluster/include/server -I/home/zty/Chat_Service_Cluster/include/server/database -I/home/zty/Chat_Service_Cluster/include/server/model -I/home/zty/Chat_Service_Cluster/include/server/redis -I/home/zty/Chat_Service_Cluster/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/zty/Chat_Service_Cluster/src/server/model/usermodel.cpp",
+  "file": "/home/zty/Chat_Service_Cluster/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/zty/Chat_Service_Cluster/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zty/Chat_Service_Cluster/include -I/home/zty/Chat_Service_Cluster/include/server -I/home/zty/Chat_Service_Cluster/include/server/database -I/home/zty/Chat_Service_Cluster/include/server/model -I/home/zty/Chat_Service_Cluster/include/server/redis -I/home/zty/Chat_Service_Cluster/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/zty/Chat_Service_Cluster/src/server/redis/redis.cpp",
+  "file": "/home/zty/Chat_Service_Cluster/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/zty/Chat_Service_Cluster/build/src/client",
+  "command": "/usr/bin/g++   -I/home/zty/Chat_Service_Cluster/include -I/home/zty/Chat_Service_Cluster/include/server -I/home/zty/Chat_Service_Cluster/include/server/database -I/home/zty/Chat_Service_Cluster/include/server/model -I/home/zty/Chat_Service_Cluster/include/server/redis -I/home/zty/Chat_Service_Cluster/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/zty/Chat_Service_Cluster/src/client/main.cpp",
+  "file": "/home/zty/Chat_Service_Cluster/src/client/main.cpp"
+},
+{
+  "directory": "/home/zty/Chat_Service_Cluster/build/src/client",
+  "command": "/usr/bin/g++   -I/home/zty/Chat_Service_Cluster/include -I/home/zty/Chat_Service_Cluster/include/server -I/home/zty/Chat_Service_Cluster/include/server/database -I/home/zty/Chat_Service_Cluster/include/server/model -I/home/zty/Chat_Service_Cluster/include/server/redis -I/home/zty/Chat_Service_Cluster/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main_init.cpp.o -c /home/zty/Chat_Service_Cluster/src/client/main_init.cpp",
+  "file": "/home/zty/Chat_Service_Cluster/src/client/main_init.cpp"
+}
+]
